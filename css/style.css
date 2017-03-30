@@ -1,0 +1,16 @@
+.microsoft div {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin: 2px; }
+  .microsoft div:nth-child(1) {
+    background-color: #f1511b; }
+  .microsoft div:nth-child(2) {
+    background-color: #80cc28; }
+  .microsoft div:nth-child(3) {
+    clear: both;
+    background-color: #00adef; }
+  .microsoft div:nth-child(4) {
+    background-color: #fbbc09; }
+
+/*# sourceMappingURL=style.css.map */
